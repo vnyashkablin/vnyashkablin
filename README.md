@@ -4,3 +4,4 @@
 ## Мои контакты 
 - [VK](https://vk.com/nyaha)
 - [Telegram](https://ivivika.t.me)
+- [Telegram channel](https://t.me/vnyashkablin)
