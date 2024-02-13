@@ -8,4 +8,4 @@
 
 ## Мои навыки 
 - Работаю в  `Photoshop`, `Illustrator` и `InDesign`
-- Активно изучаю `JavaScript` и `React`
+- Активно изучаю `JavaScript` , `React` и `3ds Max`
