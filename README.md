@@ -3,7 +3,7 @@
 
 ## Мои контакты 
 - [Telegram](https://ivivika.t.me)
-- [Telegram channel](https://t.me/imvivika))
+- [Telegram channel](https://t.me/imvivika)
 
 ## Мои навыки 
 - Работаю в  `Photoshop`, `Illustrator` и `InDesign`
