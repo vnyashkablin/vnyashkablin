@@ -2,9 +2,8 @@
 ### Привет, меня зовут Вика, мне 19 лет, я из Санкт Петербурга, учусь на графического дизайнера 
 
 ## Мои контакты 
-- [VK](https://vk.com/nyaha)
 - [Telegram](https://ivivika.t.me)
-- [Telegram channel](https://t.me/vnyashkablin)
+- [Telegram channel](https://t.me/imvivika))
 
 ## Мои навыки 
 - Работаю в  `Photoshop`, `Illustrator` и `InDesign`
